@@ -12,4 +12,4 @@
 
 
 
-### You can contact me through this email: lorenzoarrudahenrique@gmail.com
+### You can contact me through this email: dev.lorenzohenrique@gmail.com
