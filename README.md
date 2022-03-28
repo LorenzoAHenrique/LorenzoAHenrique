@@ -13,7 +13,7 @@
 
 ## 
 
-![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight&layout=compact)  
+![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight)  
 ## 
 
 ![Snake animation](https://github.com/LorenzoAHenrique/LorenzoAHenrique/blob/output/github-contribution-grid-snake.svg)
