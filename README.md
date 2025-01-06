@@ -17,4 +17,4 @@
 
 ![Snake animation](https://github.com/LorenzoAHenrique/LorenzoAHenrique/blob/output/github-contribution-grid-snake.svg)
 
-### You can contact me through this email: dev.lorenzohenrique@gmail.com
+### You can contact me through this e-mail: lorenzoahenrique@outlook.com
