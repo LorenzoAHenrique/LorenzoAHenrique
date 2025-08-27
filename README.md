@@ -9,7 +9,7 @@
 
 ##
 
-![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight)  
+![LorenzoAHenrique's Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight])  
 ## 
 
 ### You can contact me through this e-mail: lorenzoahenrique@outlook.com
