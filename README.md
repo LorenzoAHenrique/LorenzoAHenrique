@@ -1,15 +1,33 @@
-### Hi, I'm Lorenzo and currently studying Computer Science.
-### I've interests in STEM and Data Science.     
- 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+# Hi, I'm Lorenzo  
 
-## Here are some of my statistics.
+Currently studying **Computer Science**  
+Interested in **STEM, Data Science, and Automation**  
 
-![LorenzoAHenrique's github stats](https://github-readme-stats.vercel.app/api?username=LorenzoAHenrique&theme=tokyonight&show_icons=true)
+---
 
-##
+## GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoAHenrique&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
+</p>
 
-![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight&show_icons=true)  
-## 
+---
 
-### You can contact me through this e-mail: lorenzoahenrique@outlook.com
+## Technologies & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,mysql,html,css,js" />
+</p>
+
+---
+
+## Contact  
+**Email:** [lorenzoahenrique@outlook.com](mailto:lorenzoahenrique@outlook.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenzoahenrique/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:lorenzoahenrique@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
