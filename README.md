@@ -5,11 +5,11 @@
 
 ## Here are some of my statistics.
 
-![LorenzoAHenrique's github stats](https://github-readme-stats.vercel.app/api?username=LorenzoAHenrique&show_icons=true&theme=tokyonight)
+![LorenzoAHenrique's github stats](https://github-readme-stats.vercel.app/api?username=LorenzoAHenrique&theme=tokyonight&show_icons=true)
 
 ##
 
-![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight)  
+![LorenzoAHenrique's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAHenrique&theme=tokyonight&show_icons=true)  
 ## 
 
 ### You can contact me through this e-mail: lorenzoahenrique@outlook.com
