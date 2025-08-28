@@ -1,7 +1,7 @@
 # Hi, I'm Lorenzo  
 
 Currently studying **Computer Science**  
-Interested in **STEM, Data Science, and Automation**  
+Interested in **STEM and Data Science.**  
 
 ---
 
